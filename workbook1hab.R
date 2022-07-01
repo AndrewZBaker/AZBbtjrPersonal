@@ -44,3 +44,5 @@ terra::plot(shrubs, main = "Native Shrubs (2020)")
 ### Error in raster here also. Error in rgdal? No idea
 rasterVis::levelplot(shrubs)
 rasterVis::levelplot(invasives)
+
+###All I have for now, end script
